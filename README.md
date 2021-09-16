@@ -12,6 +12,7 @@ Packages include:
 - jwt (jsonwebtoken)
 - dotenv (connect my mongoDB account securely)
 - cors
+- dcrypt
 
 All of these packages allowed me to create 5 pillars of core functionality to this API including
 - Sign Up Registration (name, email, password, permission)
@@ -27,3 +28,4 @@ All of these packages allowed me to create 5 pillars of core functionality to th
   - retrieve users filtered by their permission category 
 
 Here is a link to my live explination of the design and testing on Postman:
+https://youtu.be/YdYU-sM0zY4
